@@ -545,8 +545,12 @@ a {
   border: none;
 }
 
-.modal-open:hover .icon-btn {
-  fill: #fff;
+.modal-open:hover .icon-btn,
+.modal-open:focus .icon-btn {
+  fill: #ffffff;
+}
+
+.icon-btn {
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
