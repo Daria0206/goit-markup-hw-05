@@ -555,7 +555,7 @@ a {
 }
 
 .modal-field {
-  margin-bottom: 8px;
+  margin-bottom: 16px;
 }
 
 .input-wrapper {
@@ -588,7 +588,7 @@ a {
   text-align: center;
   color: #2e2f42;
   margin-top: 32px;
-  margin-bottom: 16px;
+  margin-bottom: 8px;
 }
 
 .modal-input {
@@ -648,7 +648,7 @@ a {
   margin-top: 16px;
 }
 
-.modal-span {
+.modal-check-text span {
   width: 16px;
   height: 16px;
   border-radius: 2px;
